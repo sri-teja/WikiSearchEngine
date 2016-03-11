@@ -1,5 +1,3 @@
-Name : Allaparthi Sriteja
-Roll Number : 201302139.
 
 1- Installation Requirements:
 
